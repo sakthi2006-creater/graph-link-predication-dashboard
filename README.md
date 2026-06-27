@@ -403,6 +403,18 @@ streamlit run src/streamlit_app/app.py
 
 Open browser → http://localhost:8501
 
+
+## 🚀 Live Demo
+
+**API URL**
+https://graph-link-predication-dashboard.onrender.com
+
+**Swagger Documentation**
+https://graph-link-predication-dashboard.onrender.com/docs
+
+**Health Check**
+https://graph-link-predication-dashboard.onrender.com/health
+
 **5 Pages:**
 1. **Graph Explorer**: Dataset statistics & structure
 2. **Link Prediction**: Predict links & explain predictions
