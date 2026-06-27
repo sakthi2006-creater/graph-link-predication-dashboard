@@ -1,0 +1,2 @@
+"""Graph foundation model package."""
+
